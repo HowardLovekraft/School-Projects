@@ -23,10 +23,12 @@ print(f"({x} + {y} + {z})/3 = {answer}")'''
 
 '''month = int(input("Введите номер месяца: "))
     if 0 < month < 3 or month == 12:
-        print("Зима")
+        print("Зима.")
     elif 2 < month < 6:
-        print("Весна")
+        print("Весна.")
     elif 5 < month < 9:
-        print("Лето")
+        print("Лето.")
     elif 8 < month < 12:
-        print("Осень")'''
+        print("Осень.")'''
+    else:
+        print("Неверный номер месяца.")
