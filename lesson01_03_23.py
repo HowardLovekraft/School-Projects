@@ -29,6 +29,6 @@ print(f"({x} + {y} + {z})/3 = {answer}")'''
     elif 5 < month < 9:
         print("Лето.")
     elif 8 < month < 12:
-        print("Осень.")'''
+        print("Осень.")
     else:
-        print("Неверный номер месяца.")
+        print("Неверный номер месяца.")'''
