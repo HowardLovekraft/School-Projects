@@ -9,3 +9,5 @@ for n in range(1000, 10000):
     if s3 == "1311":
         print(num)
         break
+
+# 2949
