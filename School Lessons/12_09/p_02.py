@@ -29,10 +29,12 @@ for i in range(100, 1000):
                 res[-1] += str(sum_max_nums)
 
 if "151303" in res:
-    print("151303 is in the list")
+    print("151303 в списке")
 elif "161410" in res:
-    print("161410 is in the list")
+    print("161410 в списке")
 elif "191615" in res:
-    print("191615 is in the list")
+    print("191615 в списке")
 elif "121613" in res:
-    print("121613 is in the list")
+    print("121613 в списке")
+
+# 161410 в списке
