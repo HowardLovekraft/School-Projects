@@ -5,9 +5,9 @@ for a in range(0, 10):
             s1 = a + b
             s2 = b + c
             if s2 <= s1:
-                res.append(f'{s2}{s1}')
-            else:
                 res.append(f'{s1}{s2}')
+            else:
+                res.append(f'{s2}{s1}')
 if "1915" in res:
     print("1915 может быть")
 elif "1815" in res:
